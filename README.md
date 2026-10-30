@@ -93,4 +93,4 @@ KNIME Analytics Platform (free and open source). The team also used Altair AI St
 
 ## Credits
 
-Team project, Group 16, Luleå University of Technology (D0025E, 2025). Team members: Anders Dehlbom, Erik Vodopivec Forsman, Mattias Konnebäck, Nicole Aguiar Jakobsson and Oscar Arandes Tejerina.
+Team project, Luleå University of Technology (D0025E, 2025). Team members: Anders Dehlbom, Erik Vodopivec Forsman, Mattias Konnebäck, Nicole Aguiar Jakobsson and Oscar Arandes Tejerina.
