@@ -16,7 +16,7 @@ The company already divides its customers into **four segments**. We wanted to k
 - **8,068 customers**, one row per customer
 - **Attributes used:** Gender, Ever Married, Age, Graduated, Profession, Work Experience, Spending Score, Family Size
 - **Removed:** `ID` (row index only), `Segmentation` (the company's existing labels, removed so the clustering is unsupervised) and `Var_1` (not relevant for segmentation)
-- **Source:** [add dataset link]
+- **Source:** https://www.kaggle.com/datasets/vetrirah/customer?select=Train.csv
 
 ## KNIME workflow
 
