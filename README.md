@@ -3,7 +3,7 @@
 Segmenting an automobile company's customers with k-means clustering, built as an automated KNIME workflow: data cleaning, encoding, normalisation, a loop over the number of clusters *k*, and an elbow analysis to choose *k*.
 
 > **Context:** Team project in the course *Data Mining* (D0025E), Luleå University of Technology, 2025.
-> **My part:** I designed and built the complete KNIME workflow described below. Teammates built a parallel version in RapidMiner, and the cluster interpretation was done together.
+> **Main contribution:** I designed and built the complete KNIME workflow described below. Teammates built a parallel version in RapidMiner, and the cluster interpretation was done together.
 
 ---
 
